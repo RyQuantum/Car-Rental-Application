@@ -1,0 +1,41 @@
+C:\Users\D13\Desktop\Car Rental\Super market\bin\Release\Car Rental System.exe.config
+C:\Users\D13\Desktop\Car Rental\Car Rental System\bin\Release\Car Rental System.exe.config
+C:\Users\D13\Desktop\Car Rental\Car Rental System\bin\Release\Car Rental System.exe
+C:\Users\D13\Desktop\Car Rental\Car Rental System\bin\Release\Car Rental System.pdb
+C:\Users\D13\Desktop\Car Rental\Car Rental System\bin\Release\IrisSkin2.dll
+C:\Users\D13\Desktop\Car Rental\Car Rental System\obj\Release\Car Rental System.csprojResolveAssemblyReference.cache
+C:\Users\D13\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.Entry.resources
+C:\Users\D13\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.Insertname.resources
+C:\Users\D13\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.Pwd.resources
+C:\Users\D13\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.UserInfo.resources
+C:\Users\D13\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.Select.resources
+C:\Users\D13\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.Login.resources
+C:\Users\D13\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.MainForm.resources
+C:\Users\D13\Desktop\Car Rental\Car Rental System\obj\Release\Car_rental_system.Properties.Resources.resources
+C:\Users\D13\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.Insert.resources
+C:\Users\D13\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.SelectJD.resources
+C:\Users\D13\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.Sell.resources
+C:\Users\D13\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.Update.resources
+C:\Users\D13\Desktop\Car Rental\Car Rental System\obj\Release\Car Rental System.csproj.GenerateResource.Cache
+C:\Users\D13\Desktop\Car Rental\Car Rental System\obj\Release\Car Rental System.exe
+C:\Users\D13\Desktop\Car Rental\Car Rental System\obj\Release\Car Rental System.pdb
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\bin\Release\Car Rental System.exe.config
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\obj\Release\Car Rental System.exe
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\obj\Release\Car Rental System.pdb
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\bin\Release\Car Rental System.exe
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\bin\Release\Car Rental System.pdb
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\bin\Release\IrisSkin2.dll
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\obj\Release\Car Rental System.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.Entry.resources
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.Insertname.resources
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.Pwd.resources
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.UserInfo.resources
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.Select.resources
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.Login.resources
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.MainForm.resources
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\obj\Release\Car_rental_system.Properties.Resources.resources
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.Insert.resources
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.SelectJD.resources
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.Sell.resources
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\obj\Release\Super_market.Update.resources
+C:\Users\Ryan\Desktop\Car Rental\Car Rental System\obj\Release\Car Rental System.csproj.GenerateResource.Cache
